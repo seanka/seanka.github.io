@@ -51122,7 +51122,7 @@ D.RO.prototype={}
 E.RH.prototype={}
 O.yF.prototype={
 O(a,b){var s=null,r=t.w,q=b.a0(r).f,p=b.a0(r).f,o=t.p
-return T.dU(new T.cX(C.n8,T.Cg(C.cS,H.a([new T.hj(C.kA,s,s,T.dU(U.my("assets/images/bnwCover.png"),b.a0(r).f.a.b*0.6,s),s),new T.hj(C.kz,s,s,L.dk($.dw.i(0,"FullName"),C.F4,C.bq,s),s),T.AI(0,M.iH(s,T.fp(H.a([L.dk($.dw.i(0,"JobPositionMobile"),C.Dw,s,s),C.dF,T.l2(H.a([C.hX,L.dk($.dw.i(0,"CurrentLocation"),C.fs,s,s)],o)),new T.cX(C.n3,T.l2(H.a([new O.i2("gmail",s),C.d1,new O.i2("github",s),C.d1,new O.i2("linkedin",s),C.d1,new O.i2("ig",s),C.d1,new O.i2("wa",s)],o)),s)],o),C.aK,C.ar),s,s,s,s,s,s),s,s,75,s,s,s)],o),C.bV),s),q.a.b,p.a.a-50)}}
+return T.dU(new T.cX(C.n8,T.Cg(C.cS,H.a([new T.hj(C.kA,s,s,T.dU(U.my("assets/images/bnwCover.png"),b.a0(r).f.a.b*0.5,s),s),new T.hj(C.kz,s,s,L.dk($.dw.i(0,"FullName"),C.F4,C.bq,s),s),T.AI(0,M.iH(s,T.fp(H.a([L.dk($.dw.i(0,"JobPositionMobile"),C.Dw,s,s),C.dF,T.l2(H.a([C.hX,L.dk($.dw.i(0,"CurrentLocation"),C.fs,s,s)],o)),new T.cX(C.n3,T.l2(H.a([new O.i2("gmail",s),C.d1,new O.i2("github",s),C.d1,new O.i2("linkedin",s),C.d1,new O.i2("ig",s),C.d1,new O.i2("wa",s)],o)),s)],o),C.aK,C.ar),s,s,s,s,s,s),s,s,s,s,s,s)],o),C.bV),s),q.a.b,p.a.a-50)}}
 O.i2.prototype={
 aG(){return new O.HE(C.m)},
 gag(a){return this.c}}
@@ -53125,8 +53125,8 @@ C.cS=new K.hk(-1,-1)
 C.b6=new K.cA(0,0)
 C.kx=new K.cA(0,1)
 C.ky=new K.cA(1,0)
-C.kz=new K.cA(-1,-0.2)
-C.kA=new K.cA(1,-0.6)
+C.kz=new K.cA(-1,0.3)
+C.kA=new K.cA(0,-0.9)
 C.kB=new K.cA(-1,0)
 C.kC=new K.cA(0.1,1)
 C.kD=new G.wF("AnimationBehavior.normal")
